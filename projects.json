@@ -1,0 +1,14 @@
+[
+    {
+      "name": "Matador",
+      "live": "https://jedi-project1.vercel.app/",
+      "git": "https://github.com/Turnermb/Jedi-Project1",
+      "image": "http://www.imgur.com/pictureofproject.png"
+    },
+    {
+      "name": "Minotaur",
+      "live": "https://minotaur-financial.herokuapp.com/",
+      "git": "https://github.com/Turnermb/Jedi-Project2",
+      "image": "http://www.imgur.com/pictureofproject.png"
+    }
+  ]
